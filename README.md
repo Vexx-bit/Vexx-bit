@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Kenyan Fullstack Developer with a knack for turning ideas into code.<br>🚀 Crafting slick e-commerce sites and dynamic web apps with PHP and Bootstrap.<br>🎨 I live for clean, engaging UI and clever problem-solving.<br>🛠️ Always on the hunt for the latest tech trends to keep my skills sharp.<br>🤫 Fun fact: I can make a website's design pop with just a few lines of CSS magic.<br>🌟 Let’s connect and create something awesome together!
+👨‍💻Samuel Kamau Kang'ethe-Fullstack Developer <br>🚀Building Solutions That Matter!.<br>🌟 Let’s connect and create something awesome together!
 
 
 ## 🌐 Socials:
